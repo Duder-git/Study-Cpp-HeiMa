@@ -1,0 +1,6 @@
+﻿  Cube.cpp
+D:\文档\VisualStudio文档\Practice_Cube\Cube.h(1,1): warning C4828: 文件包含在偏移 0x3e5 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  main.cpp
+D:\文档\VisualStudio文档\Practice_Cube\Cube.h(1,1): warning C4828: 文件包含在偏移 0x3e5 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  Practice_Cube.vcxproj -> D:\文档\VisualStudio文档\Practice_Cube\x64\Debug\Practice_Cube.exe
